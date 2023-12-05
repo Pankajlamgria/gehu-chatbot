@@ -1,0 +1,106 @@
+{
+    "greet": [
+        "Hello! How can I assist you today?",
+        "Greetings! I'm here to help. What can I do for you?",
+        "Hi there! Ready to chat? Feel free to ask me anything.",
+        "Good day! I'm a chatbot ready to provide information and answer your questions.",
+        "Welcome! How may I be of service to you?",
+        "Hey! I'm here to make your experience better. What do you need help with?",
+        "Hi! I'm your virtual assistant. What can I do to assist you right now?",
+        "Greetings! Whether you have questions or just want to chat, I'm here for you.",
+        "Hello there! I'm here to provide support and information. What can I help you with?",
+        "Good to see you! Let's get started. What brings you here today?"
+    ],
+    "thanks": [
+        "You're welcome! If you have any more questions, feel free to ask.",
+        "No problem at all! Happy to help. Is there anything else you need assistance with?",
+        "You're most welcome! If there's anything else I can do for you, just let me know.",
+        "Glad I could assist! If you ever need help again, don't hesitate to reach out.",
+        "Anytime! If there's anything else on your mind, I'm here to chat.",
+        "It was my pleasure! Let me know if there's anything else I can do for you.",
+        "You're welcome! If you have more inquiries or need further assistance, feel free to ask.",
+        "No worries! If you ever have more questions, I'm here 24/7.",
+        "Happy to help! If there's anything specific you'd like assistance with next, just say the word.",
+        "You got it! If there's anything else I can do to make your experience better, I'm here."
+    ],
+    "quit": [
+        "Sure thing! If you ever return or have more questions, feel free to reach out. Have a great day!",
+        "No problem! If you need assistance in the future, I'll be here. Take care!",
+        "Absolutely! If there's anything else I can help you with later on, just let me know. Have a wonderful day!",
+        "Understood! If you ever come back or have further inquiries, I'll be here. Take care and goodbye for now!",
+        "Of course! If there's anything else you need in the future, don't hesitate to return. Have a fantastic day!",
+        "Got it! Feel free to return anytime. If you have more questions down the line, I'm here to assist.",
+        "Sure thing! If there's anything you forgot or need later, remember I'm just a message away. Goodbye for now!",
+        "No worries! If you ever find yourself needing assistance again, I'll be right here. Take care and goodbye!",
+        "Absolutely! If you ever want to continue our conversation or need help later on, I'm always here. Farewell for now!",
+        "Alright! If you ever return or have more questions, you know where to find me. Have a wonderful day!"
+    ],
+    "attendance": [
+        " You can view your attendance details by clicking on this link. If you encounter any issues, feel free to visit our support page or contact the ERP cell on campus.",
+        "To check your attendance, simply follow this link. Any problems? Visit our support page or reach out to the ERP cell on campus.",
+        "You can find your attendance record by visiting this link. Should you encounter any difficulties, our support page is available, or you can contact the ERP cell on campus.",
+        "You can check your class attendance by clicking on this link. If you need further assistance, please visit our support page or contact the ERP cell on campus.",
+        "You can review your attendance details by following this link. For any issues, check our support page or contact the ERP cell on campus."
+    ],
+    "accademicNews": [
+        "you can Stay informed with the latest academic updates and news by checking out this link: Latest Academic Information.",
+        "For the most recent academic information and news, click on this link: Latest Updates.",
+        "To keep yourself updated on all academic news, simply follow this link: Academic Information.",
+        "Alright ! Find the most recent academic updates and news by visiting this link: Latest Academic Information.",
+        "Alright! To stay in the loop with the newest academic information and news, just click here: Latest Updates.",
+        "Explore the latest academic updates and news by following this link: Academic Information."
+    ],
+    "assignment": [
+        "You can discover your assignment details by visiting this link: Assignment Details.",
+        "If you're curious about current assignments, check out this link for all the details: Assignment Information.",
+        " You can find information about your assignments by visiting this link: Assignment Details.",
+        "If you're looking for assignment details, follow this link to get all the information you need: Assignment Information.",
+        "To know about current assignments, check this link for assignment details: Assignment Details.",
+        "For information on available assignments, follow this link: Assignment Details."
+    ],
+    "jokes": [
+        "Why don't scientists trust atoms? Because they make up everything!",
+        "Why did the computer catch a cold? It left its Windows open!",
+        "Why did the math book look sad? Because it had too many problems.",
+        "What do you call fake spaghetti? An impasta!",
+        "Why don't skeletons fight each other? They don't have the guts!",
+        "Why did the scarecrow win an award? Because he was outstanding in his field!",
+        "What do you call cheese that isn't yours? Nacho cheese!",
+        "Why did the bicycle fall over? Because it was two-tired!",
+        "What's orange and sounds like a parrot? A carrot!",
+        "How do you organize a space party? You planet!",
+        "Why don't seagulls fly over the bay? Because then they'd be bagels!",
+        "What did the janitor say when he jumped out of the closet? Supplies!",
+        "What did the grape say when it got stepped on? Nothing, it just let out a little wine.",
+        "Why did the math book look sad? Because it had too many problems.",
+        "What do you call a fish wearing a crown? A kingfish!",
+        "Why did the computer catch a cold? It left its Windows open!",
+        "Why did the chicken go to the seance? To talk to the other side!",
+        "Why did the skeleton go to the party alone? He had nobody to go with him!",
+        "What did the ocean say to the shore? Nothing, it just waved!",
+        "What do you call a snowman with a six-pack? An abdominal snowman!"
+    ],
+    "feesStatus": [
+        "To check your fees status, follow this link: Fees Status. If you have any additional queries, feel free to contact the ERP cell on campus for assistance.",
+        "Your current fees status can be accessed by visiting this link: Check Fees Status. For further inquiries, don't hesitate to reach out to the ERP cell on campus.",
+        "Navigate to this link: Fees Status to find details about your fees. If you still have questions, the ERP cell on campus is there to help.",
+        "Get the latest information about your fees status by clicking here: Check Fees Status. For any unresolved queries, contact the ERP cell on campus.",
+        "you can view your fees status by visiting: Fees Status. Should you have more questions, don't hesitate to connect with the ERP cell on campus."
+    ],
+    "history": [
+        "Presenting your history to you.",
+        "Providing you with your history.",
+        "Your history is displayed here.",
+        "This is where your history resides.",
+        "Here's a record of your history.",
+        "Behold, your history is here.",
+        "Your history is available for review."
+    ],
+    "news": [
+        "As a chatbot guiding you through the GEHU ERP website, I don't have access to new data, so I'm unable to provide that information. However, you can explore Google or ChatGPT for potential assistance.",
+        "In my role as a chatbot assisting with the GEHU ERP website, I lack access to new data, preventing me from offering that information. Feel free to check Google or ChatGPT for possible solutions.",
+        "As your guide for the GEHU ERP website, I can't access new data, so I can't provide that information. Consider checking Google or ChatGPT for assistance—they might have the answers you need.",
+        "While guiding you through the GEHU ERP website, I want to clarify that I don't have access to new data. Therefore, I'm unable to provide that information. You might want to explore Google or ChatGPT for potential solutions.",
+        "As a chatbot assisting with the GEHU ERP website, I'm unable to access new data, so I can't provide the information you're looking for. I recommend checking Google or ChatGPT for assistance—they could have the answers you seek."
+    ]
+}
