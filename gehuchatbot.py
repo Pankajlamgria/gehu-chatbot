@@ -1,32 +1,31 @@
 import random
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import svm
-import json
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+import json 
 from textblob import TextBlob
-from nltk import WordNetLemmatizer
+from gtts import gTTS
+import vlc
+import datetime
+import csv
 
 class gehu:
     def __init__(self):
-        lemmatizer=WordNetLemmatizer()
-        self.stopword=stopwords.words('english')
         self.trainx=[]
         self.trainy=[]
-        f=open("./data/train/greet.json")
+        f=open("./data/train/training.json")
         resfile=open("./data/responses/response.json")
         data=json.load(f)
         self.responses=json.load(resfile)
+        
+        currenttime=datetime.datetime.now()
+        csvfile=open("./data/history.csv","a+")
+        csvwriter=csv.writer(csvfile)
+        csvwriter.writerow([currenttime])
+        csvfile.close()
+        
         for key in data:  
             for i in data[key]:
-                i=i.lower()
-                tokenwords=word_tokenize(i)
-                newSetence=[]
-                for words in tokenwords:
-                    if(words not in self.stopword):
-                        words=lemmatizer.lemmatize(words)
-                        newSetence.append(words)
-                self.trainx.append(' '.join(newSetence))
+                self.trainx.append(i)
                 self.trainy.append(key)
         self.vectorizer=TfidfVectorizer()
         traneddata=self.vectorizer.fit_transform(self.trainx)
@@ -38,24 +37,44 @@ class gehu:
         tb_text=TextBlob(userInput)
         tb_text.correct()
         userInput=str(tb_text)
-        tokenwords=word_tokenize(userInput)
-        newSentence=[]
-        for word in tokenwords:
-            if word not in self.stopword:
-                newSentence.append(word)
-        userInput=(' '.join(newSentence))
         testx=self.vectorizer.transform([userInput])
         return self.clf.predict(testx)
-    def startthebot(self):
-        print(f"Bot:{random.choice(self.responses['greet'])}")
-        req=input("User:")
+    def showhistory(self):
+        csvfile=open("./data/history.csv","r")
+        csvreader=csv.reader(csvfile)
+        self.botresp=""
+        str=""
+        for line in csvreader:
+            if(len(line)==1):
+                str=str+f"\nDate:{line[0]}"
+            elif(len(line)==2):
+                str=str+f"\nUser:{line[0]}"
+                str=str+f"\nBot:{line[1]}"
+        return str
+           
+    def clearHistory(self):
+        self.botresp=""
+        csvfile=open("./data/history.csv","w")
+        csvfile.close()    
+        
+    def generateres(self,req):
         tag=self.findemotion(req)
-        while(tag[0]!="quit"):
-            print(f"Bot:{tag[0]} {random.choice(self.responses[f'{tag[0]}'])}")
-            req=input("User:")
-            tag=self.findemotion(req)
-        print(f"Bot:{tag[0]} {random.choice(self.responses['quit'])}")
-
-            
-obj=gehu()
-gehu.startthebot(obj)
+        if(tag[0]=='history'):
+            return self.showhistory()
+        elif(tag[0]=='deletehistory'):
+            self.clearHistory()
+            return random.choice(self.responses['deletehistory'])
+        else:
+            self.botresp=random.choice(self.responses[f'{tag[0]}'])
+            csvfile=open("./data/history.csv","a+")
+            csvwriter=csv.writer(csvfile)
+            csvwriter.writerow([req,self.botresp])
+            csvfile.close()
+            return self.botresp
+                  
+    def speaktheoutput(self):
+        tts=gTTS(self.botresp,lang='en',slow=False)
+        tts.save("./data/speak.mp3")
+        p=vlc.MediaPlayer("./data/speak.mp3")
+        p.play()
+    

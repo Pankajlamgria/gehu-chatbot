@@ -11,6 +11,33 @@
         "Hello there! I'm here to provide support and information. What can I help you with?",
         "Good to see you! Let's get started. What brings you here today?"
     ],
+    "creator": [
+        "A student from Graphic Era Hill University is the mastermind behind the creation of this chatbot.",
+        "The development of this chatbot can be attributed to the innovative skills of a student enrolled at Graphic Era Hill University.",
+        "Graphic Era Hill University takes pride in having a student who has successfully crafted this chatbot.",
+        "The credit for this chatbot's creation goes to the talented student body of Graphic Era Hill University."
+    ],
+    "botname": [
+        "My name is EraGuide, and I'm here as your dedicated source for resolving queries about Graphic Era Hill University.",
+        "EraGuide reporting in! If you have any questions related to Graphic Era Hill University, feel free to ask, and I'll do my best to provide you with accurate and helpful information.",
+        "Greetings! I go by the name EraGuide, and I'm your go-to resource for addressing any inquiries you might have about Graphic Era Hill University.",
+        "It's EraGuide here, ready to tackle any queries you may have regarding Graphic Era Hill University. Don't hesitate to reach out!",
+        "Hey there, I'm EraGuide, and I'm at your service to help with any questions related to Graphic Era Hill University. Feel free to ask away!",
+        "This is EraGuide speaking, your virtual assistant for all things Graphic Era Hill University. How can I assist you today?",
+        "EraGuide here, standing by to solve any queries you may have about Graphic Era Hill University. Fire away with your questions!"
+    ],
+    "timing": [
+        "The college is open from Monday to Saturday, allowing students to engage in academic activities during the weekdays. The operational hours are set from 8 am to 6 pm.",
+        "From Monday to Saturday, the college welcomes students, offering educational services during the standard weekdays. The operational timeframe extends from 8 am to 6 pm.",
+        "Operating on a six-day schedule, the college provides services from Monday to Saturday, with the daily hours ranging from 8 am to 6 pm.",
+        "Monday to Saturday marks the college's accessibility, accommodating students throughout the weekdays. The established operational hours are from 8 am to 6 pm.",
+        "Throughout the weekdays, Monday to Saturday, the college remains open, providing students with access to educational resources. The operational hours are maintained from 8 am to 6 pm.",
+        "The college maintains an operational presence from Monday to Saturday, with its doors open to students during the weekdays. The designated hours are from 8 am to 6 pm.",
+        "Students have the opportunity to engage in college activities from Monday to Saturday, as the institution operates during these weekdays. The specified hours are from 8 am to 6 pm."
+    ],
+    "dontknow":[
+        "Soory, unable to understand Please write specifically"
+    ],
     "thanks": [
         "You're welcome! If you have any more questions, feel free to ask.",
         "No problem at all! Happy to help. Is there anything else you need assistance with?",
@@ -23,6 +50,15 @@
         "Happy to help! If there's anything specific you'd like assistance with next, just say the word.",
         "You got it! If there's anything else I can do to make your experience better, I'm here."
     ],
+    "bus":[
+        "College also provide bus facility for traveling and it covers allmost all the part of dehradun and even vikasnagar.Bus charge is also very less 2400 per year\n Bus timming:\n7am ,11am from starting point to college\n1pm,4pm,6pm: from college to home"
+    ],
+    "contactinfo": [
+        "You can call us on our Toll Free Numbers at 1800 890 6027, 1800 270 1280 available from 8 AM to 6 PM on all days Including Sundays and public holidays Connect to us via WhatsApp on 7617770113 For more, email us at admissions@gehu.ac.in or enquiry@gehu.ac.in"
+    ],
+    "course": [
+        "1. Engineering and Technology:\n  -B.Tech (Bachelor of Technology) in various specializations\n   -M.Tech (Master of Technology) in various specializations\n2. Computer Applications:\n   -BCA (Bachelor of Computer Applications)\n  -(Master of Computer Applications)\n3. Management:\n    -BBA (Bachelor of Business Administration)\n    -MBA (Master of Business Administration)\n4. Science:\n    -B.Sc (Bachelor of Science) in various disciplines\n  -M.Sc (Master of Science) in various disciplines\n5. Commerce:\n   -B.Com (Bachelor of Commerce)\n    -M.Com (Master of Commerce)\n6. Arts and Humanities:\n    -BA (Bachelor of Arts) in various disciplines\n    -MA (Master of Arts) in various disciplines\n7. Hotel Management:\n    -BHM (Bachelor of Hotel Management)\n    -MHM (Master of Hotel Management)\n8. Law:\n    -BA LLB (Bachelor of Arts, Bachelor of Laws)\n    -BBA LLB (Bachelor of Business Administration, Bachelor of Laws)\n    -LLM (Master of Laws)\n9.Pharmacy:\n    -B.Pharm (Bachelor of Pharmacy)\n   -M.Pharm (Master of Pharmacy)\n10. Media Studies:\n    -B.Sc in Animation and Multimedia\n    -M.Sc in Animation and Multimedia\n11. Design:\n    -B.Des (Bachelor of Design)\n    -M.Des (Master of Design)\n12. Research Programs:\n    -Ph.D. programs in various disciplines\nFor more detials visit https://geu.ac.in/lp/admissions-2023.html"
+    ],
     "quit": [
         "Sure thing! If you ever return or have more questions, feel free to reach out. Have a great day!",
         "No problem! If you need assistance in the future, I'll be here. Take care!",
@@ -34,6 +70,9 @@
         "No worries! If you ever find yourself needing assistance again, I'll be right here. Take care and goodbye!",
         "Absolutely! If you ever want to continue our conversation or need help later on, I'm always here. Farewell for now!",
         "Alright! If you ever return or have more questions, you know where to find me. Have a wonderful day!"
+    ],
+    "canteen": [
+        "Our college boasts a cafeteria conveniently located within the campus, offering a diverse range of food options."
     ],
     "attendance": [
         " You can view your attendance details by clicking on this link. If you encounter any issues, feel free to visit our support page or contact the ERP cell on campus.",
@@ -87,6 +126,46 @@
         "Get the latest information about your fees status by clicking here: Check Fees Status. For any unresolved queries, contact the ERP cell on campus.",
         "you can view your fees status by visiting: Fees Status. Should you have more questions, don't hesitate to connect with the ERP cell on campus."
     ],
+    "feestructure": [
+        "For the Fees Structure of different course you can visit:\nhttps://www.collegedekho.com/colleges/graphic-era-hill-university-dehradun-campus-btech-dp-164350#1254036\nFor more details contact graphic era hill university."
+    ],
+    "location": [
+        "The college is situated at 566/6, Bell Road, Society Area, Clement Town, Dehradun, Uttarakhand 248002, India.",
+        "Located in Dehradun, Uttarakhand, the college's address is 566/6, Bell Road, Society Area, Clement Town, 248002.",
+        "The precise address of the college is 566/6, Bell Road, Society Area, Clement Town, Dehradun, Uttarakhand 248002, India.",
+        "Situated in Clement Town, Dehradun, the college is easily accessible at 566/6, Bell Road, Society Area, 248002, Uttarakhand, India.",
+        "For those seeking the college, it is conveniently located at 566/6, Bell Road, Society Area, Clement Town, Dehradun, Uttarakhand 248002.",
+        "In Dehradun, Uttarakhand, India, you'll find the college nestled at 566/6, Bell Road, Society Area, Clement Town, 248002.",
+        "The college's physical address is 566/6, Bell Road, Society Area, Clement Town, Dehradun, Uttarakhand 248002, India.",
+        "Situated in Clement Town, Dehradun, the college's precise location is 566/6, Bell Road, Society Area, 248002, Uttarakhand.",
+        "If you're looking for the college, it can be found at 566/6, Bell Road, Society Area, Clement Town, Dehradun, Uttarakhand 248002, India."
+    ],
+    "hostel": [
+        "Boys Hostel:\n    -APJ ABDUL KALAM(Gautam Hostel)\n    -CHANDRA SHEKHER AZAD (Main Campus)\n    -MAHARANA PRATAP HOSTEL(Satya Hostel)\n    -NETAJI SUBHASH CHANDRA HOSTEL\n    -SAI HOSTEL\n    -SARDAR BHAGAT SINGH HOSTEL\n   -SARDAR PATEL HOSTEL(MESS)\n    -AMRIT HOSTEL\nGirls Hostel:\n    -LAXMI BAI HOSTEL\n    -PRIYADARSHANI HOSTEL\n    -SAROJANI HOSTEL\n    -MARINA HOSTEL\n    -MOTHER TERESSA HOSTEL\nIndulge in a secure and comfortable college life with our excellent hostel facilities. Tailored for female students, our accommodations boast 100% security. Choose from a variety of rooms, including AC and non-AC options, based on your preferences. Enjoy wholesome meals at the hostel mess. Plus, all our hostels are conveniently located within 500 meters from the campus, ensuring easy access to academic and recreational spaces. Your ideal college living experience awaits!\nTo download pdf of fees structure:https://ddn.gehu.ac.in/uploads/doc/HOSTEL-FEE-SESSION-2023-2024.pdf"
+    ],
+    "documents": [
+        "The documents for Graphic Era Hill University are as follows:\n    -Application form(University Application Form)\n    -Photograph\n    -Signature of the Candidate\n    -Admit Card of class 12th\n    -Marks sheet of 10+2 level\n    -Caste Certificate (if applicable)\n    -EWS Certificate\n    -PWD Certificate\n    -Migration Certificate\n    -Domocile\n    -Aadhar Card or ID Proof\n    -Proof of Address"
+    ],
+    "syllabus": [
+        "Upon enrollment, students are provided with the timetable and syllabus directly. If you need extra copies of either the syllabus or timetable, we encourage you to visit http://btechcsegehu.in/syllabus/"
+    ],
+    "library": [
+        "The college boasts two well-equipped libraries, one catering specifically to law students and another serving the rest of the student body. These spacious libraries have the capacity to comfortably accommodate up to 250 students simultaneously, providing a conducive environment for studying and research. Students have the privilege of borrowing books from an extensive and diverse collection, allowing them to enhance their knowledge across various subjects. These libraries serve as invaluable resources, fostering a culture of continuous learning and academic excellence among the student community.",
+        "The college features two extensively equipped libraries, with one dedicated to law students and the other serving the broader student population. These roomy facilities can conveniently host up to 250 students concurrently, creating an ideal setting for both study and research activities. Students enjoy the opportunity to borrow books from a broad and varied collection, enabling them to enrich their understanding of diverse subjects. These libraries play a crucial role as invaluable assets, nurturing a culture of ongoing learning and academic achievement within the student community",
+        "The college's commitment to academic excellence is evident through its two well-appointed libraries—one exclusively for law students and the other catering to the wider student body. These spacious facilities, capable of accommodating up to 250 students simultaneously, provide an optimal environment for study and research. Students, benefiting from access to a diverse range of books, have the chance to deepen their knowledge across various subjects. These libraries are indispensable assets, fostering a culture of continuous learning and academic accomplishment among the student community."
+    ],
+    "exam": [
+        "At the commencement of each semester, the college provides the academic calendar. All examinations are scheduled in accordance with this calendar. To access the academic calendar for the current semester, please visit the following link:https://firebasestorage.googleapis.com/v0/b/imageuploadingtester.appspot.com/o/images%2FAcademic%20Calendar%20for%20III%20V%20VII%20and%20IX%20Semester182%20(2).pdf?alt=media&token=e2e24f16-293b-4a4b-baae-68e1e9e0813b. Stay informed and plan your academic journey effectively with our comprehensive academic calendar."
+    ],
+    "placements": [
+        "Graphic Era has been delivering the Highest Number of Tier-1 Placements in the region, Year on Year, for the past many years with the maximum number of selection in Global Giants like Amazon, Adobe, Microsoft and Google. To know more visit https://dehradun.gehu.ac.in/placements/"
+    ],
+    "scholarship": [
+        "Our college offers multiple scholarships:\n   -Academic scholarship(minimum 70% required and differ from course to course)\n   -Fee Concession For Wards Of Defence Personnel (5% On Net Tuition Fee)\n   -Fee Concession For Female Candidates (10% On Net Tuition Fee)\n   -Loyalty Concession: 10% (On Net Tuition Fee)\n   -Sibling Concession: (7.5% - Current Student and 5% - Alumni on NET TUITION FEE)\n   -Scholarship to students of Uttarakhand."
+    ],
+    "uniform": [
+        "Dress Code:\n   -Monday & Thursday:Prescribed Formal Uniform with proper tie,belt and formal black shoes.\n   -Tuesday,Wednesday & Friday: Semi-formals with university T-shirt/Hoodies.\n   -Saturday:Samrt Casual(no torn jeans or shorts are allowed).\n   -Students should be in possession of University ID card with them at all times."
+    ],
     "history": [
         "Presenting your history to you.",
         "Providing you with your history.",
@@ -95,6 +174,54 @@
         "Here's a record of your history.",
         "Behold, your history is here.",
         "Your history is available for review."
+    ],
+    "deletehistory":[
+        "Data has been deleted successfully."
+    ],
+    "random": [
+        "My programming is not tailored for this particular task; kindly present an appropriate query.",
+        "I'm not programmed to handle this; could you please pose a relevant query instead?",
+        "This is beyond my programming scope; kindly ask a question that falls within my capabilities.",
+        "Unfortunately, I'm not designed for this specific task. Feel free to ask a more suitable question.",
+        "My programming doesn't cover this; could you ask a question that aligns with my capabilities?",
+        "I'm not programmed to address this; please pose a question that I can assist you with.",
+        "This task is outside my programming parameters; kindly inquire about something more suitable.",
+        "Unfortunately, I'm not programmed for this; could you please present a question within my capabilities?"
+    ],
+    "slang": [
+        "Inappropriate language is not acceptable here. If you have any questions or need assistance feel free to ask, and I'll be happy to help in a respectful manner.",
+        "Maintaining decency would be appreciated"
+    ],
+    "holiday": [
+        "Major Holidays offered by University:\n1 week on Diwali\n1 week on Holi\n20 days after Semester Exams\nFor more info visit academic calendar https://firebasestorage.googleapis.com/v0/b/imageuploadingtester.appspot.com/o/images%2FAcademic%20Calendar%20for%20III%20V%20VII%20and%20IX%20Semester182%20(2).pdf?alt=media&token=e2e24f16-293b-4a4b-baae-68e1e9e0813b"
+    ],
+    "sports": [
+        "The college boasts a vibrant sports program with a wide array of options for students. These include popular sports like football, table tennis, badminton, carrom, basketball, volleyball, snooker, and many others."
+    ],
+    "task": [
+        "Feel free to ask me anything about college, and I'll do my best to provide you with the information you need.",
+        "Have a question about college life? Just ask, and I'll do my best to assist you!",
+        "Curious about anything related to college? Ask away, and I'll provide you with the answers you're looking for.",
+        "Need information or advice about college? I'm here to help, so go ahead and ask your questions.",
+        "Exploring college options or have concerns? Ask me, and I'll guide you through the information you seek.",
+        "Considering college and have questions? Feel free to ask, and I'll provide you with the details you're looking for.",
+        "Wondering about college experiences or requirements? I'm here to answer your questions and offer guidance.",
+        "Questions about college? Don't hesitate to reach out—I'm here to provide you with the information you need.",
+        "Thinking about college decisions? Ask me your questions, and I'll assist you in making informed choices.",
+        "Whether it's about admissions, courses,or hostel, I'm here to answer your college-related questions. Ask away!"
+    ],
+    "ragging": [
+        "We are Proud to tell you that our college provides ragging free environment, and we have strict rules against ragging",
+        "Our college takes pride in fostering a safe and welcoming environment, completely free from any form of ragging. We have strict policies in place to ensure a respectful and inclusive atmosphere for all students.",
+        "Ensuring a ragging-free atmosphere is a top priority at our college. We have stringent rules in place, and our commitment to maintaining a positive and secure environment is unwavering.",
+        "We're pleased to share that our college is committed to a zero-tolerance policy against ragging. Strict rules and proactive measures are in place to create a safe and supportive space for every student.",
+        "Your safety and well-being are our top priorities. Our college has implemented stringent measures against ragging, ensuring a harmonious and respectful environment for all.",
+        "Creating a campus free from ragging is at the core of our values. Our college upholds strict rules and regulations to guarantee a secure and friendly space for every student.",
+        "We take pride in maintaining a ragging-free environment. Our college has implemented strong anti-ragging measures to guarantee the safety and comfort of every student.",
+        "Our college stands firm against ragging, ensuring a campus environment that is completely free from any such activities. Strict policies are in place to enforce a culture of respect and understanding.",
+        "We want to assure you that our college is committed to providing a ragging-free environment. Stringent rules and continuous vigilance contribute to creating a safe and supportive atmosphere.",
+        "Your college experience should be free from any form of harassment. We are proud to declare our college's commitment to a ragging-free environment, backed by strict rules and policies.",
+        "At our college, we take a strong stance against ragging. Our commitment to maintaining a safe and respectful atmosphere is reflected in our strict rules and proactive measures."
     ],
     "news": [
         "As a chatbot guiding you through the GEHU ERP website, I don't have access to new data, so I'm unable to provide that information. However, you can explore Google or ChatGPT for potential assistance.",
